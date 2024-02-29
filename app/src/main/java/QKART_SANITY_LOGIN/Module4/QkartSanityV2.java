@@ -5,7 +5,7 @@ package QKART_SANITY_LOGIN.Module4;
 
 import java.io.File;
 import java.net.MalformedURLException;
-import java.net.URL;
+
 import java.time.Duration;
 import java.util.Arrays;
 import java.util.List;
@@ -22,8 +22,6 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 
-import org.openqa.selenium.remote.DesiredCapabilities;
-import org.openqa.selenium.remote.RemoteWebDriver;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 

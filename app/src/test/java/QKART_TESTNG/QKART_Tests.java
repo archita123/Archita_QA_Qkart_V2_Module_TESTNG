@@ -34,7 +34,7 @@ public class QKART_Tests {
         // Launch Browser using Zalenium
        ChromeOptions options = new ChromeOptions();
        driver = new ChromeDriver(options);
-
+       
 		WebDriverManager.chromedriver().setup();
 		//WebDriver driver = new ChromeDriver(options);
 
